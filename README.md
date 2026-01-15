@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
-<h3 align="center">Hey, I'm Piyush 👋 Full-stack web developer focused on React and ASP.NET MVC.</h3>
+<h1 align="center">Hey 👋, I'm Piyush Kumar</h1>
+<h3 align="center">  I'm Full-stack web developer focused on React and ASP.NET MVC.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heypiyushhh&label=Profile%20views&color=0e75b6&style=flat" alt="heypiyushhh" /> </p>
 
