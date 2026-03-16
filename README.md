@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working with **• React-based frontend development • ASP.NET MVC backend & REST APIs • SQL database optimization**
 
-- 👨‍💻 All of my projects are available at [https://piyushkumar-khaki.vercel.app/](https://piyushkumar.site/)
+- 👨‍💻 All of my projects are available at [https://piyushkumar.site/](https://piyushkumar.site/)
 
 - 💬 Ask me about **• React.js & Component-Based UI • ASP.NET MVC Projects • Full Stack Web Development • CRUD Applications • SQL Queries & Database Design • Admin Dashboards**
 
