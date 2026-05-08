@@ -1,49 +1,146 @@
-<h1 align="center">Hey 👋, I'm Piyush Kumar</h1>
-<h3 align="center">  I'm Full-stack web developer focused on React and ASP.NET MVC.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heypiyushhh&label=Profile%20views&color=0e75b6&style=flat" alt="heypiyushhh" /> </p>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Piyush%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=60&descSize=20&animation=fadeIn" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heypiyushhh" alt="heypiyushhh" /></a> </p>
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=React+%7C+ASP.NET+MVC+%7C+Full+Stack+Dev;Turning+Coffee+%E2%98%95+into+Clean+Code;Building+Beautiful+%26+Scalable+Web+Apps;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/heypiyushhh" target="blank"><img src="https://img.shields.io/twitter/follow/heypiyushhh?logo=twitter&style=for-the-badge" alt="heypiyushhh" /></a> </p>
+<br/>
 
-- 🌱 I’m currently working with **• React-based frontend development • ASP.NET MVC backend & REST APIs • SQL database optimization**
-
-- 👨‍💻 All of my projects are available at [https://piyushkumar.site/](https://piyushkumar.site/)
-
-- 💬 Ask me about **• React.js & Component-Based UI • ASP.NET MVC Projects • Full Stack Web Development • CRUD Applications • SQL Queries & Database Design • Admin Dashboards**
-
-- 📫 How to reach me **piyushmalwa459@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning coffee ☕ into code and bugs into lessons.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/heypiyushhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heypiyushhh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/heypiyushhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heypiyushhh" height="30" width="40" /></a>
-<a href="https://instagram.com/___piyu.shhh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___piyu.shhh__" height="30" width="40" /></a>
+<!-- Profile Views + Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=heypiyushhh&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <a href="https://twitter.com/heypiyushhh"><img src="https://img.shields.io/twitter/follow/heypiyushhh?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=0d1117" alt="Twitter" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/heypiyushhh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heypiyushhh&show_icons=true&locale=en&layout=compact" alt="heypiyushhh" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heypiyushhh&show_icons=true&locale=en" alt="heypiyushhh" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heypiyushhh&" alt="heypiyushhh" /></p>
+```js
+const piyush = {
+  name:       "Piyush Kumar",
+  role:       "Full-Stack Web Developer",
+  location:   "India 🇮🇳",
+  portfolio:  "https://piyushkumar.site/",
+  email:      "piyushmalwa459@gmail.com",
+  focus:      ["React.js", "ASP.NET MVC", "REST APIs", "SQL"],
+  currentlyOn: "Building scalable web apps & polished UIs",
+  funFact:    "I turn ☕ coffee into code & bugs into lessons 🐛➡️💡",
+};
+```
 
-<!--
-**heypiyushhh/heypiyushhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🛠️ Backend & Database
+![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+</div>
+
+---
+
+## 💡 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🖥️ Frontend Development
+- ⚛️ **React.js** — Component-based UIs
+- 🎨 **Responsive Design** — Bootstrap + CSS3
+- 📊 **Data Visualization** — Chart.js dashboards
+- ✏️ **Figma** — UI/UX prototyping
+
+</td>
+<td width="50%">
+
+### ⚙️ Backend Development
+- 🔗 **ASP.NET MVC** — RESTful APIs
+- 🗃️ **SQL / MongoDB** — Database design
+- 🔒 **CRUD Apps** — Secure, clean architecture
+- 📬 **API Testing** — Postman workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=heypiyushhh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heypiyushhh&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=heypiyushhh&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=heypiyushhh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-piyushkumar.site-2c5364?style=for-the-badge&logoColor=white)](https://piyushkumar.site/)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-@heypiyushhh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/heypiyushhh)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-heypiyushhh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heypiyushhh)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-___piyu.shhh__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/___piyu.shhh__)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-piyushmalwa459@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushmalwa459@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+
+<sub>⭐ <i>If you like my work, consider starring my repos — it motivates me to build more!</i> ⭐</sub>
+
+</div>
